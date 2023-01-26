@@ -1,10 +1,11 @@
-<img alt="hello!" style="display: block;
+<img alt="hello!" align="center" style="display: block;
 margin-left: auto;
 margin-right: auto;
-width: 20%;" src="https://giffiles.alphacoders.com/956/9562.gif" style="margin-bottom: 50px;">
+width: 20%;
+margin-bottom: 30px;" src="https://giffiles.alphacoders.com/956/9562.gif">
 
 <div id="badges" align="center" style="margin-bottom: 10px;">
-  <a href="https://www.linkedin.com/in/miquel-estrada-fit%C3%A9-29582b72/">
+  <a target="_blank" href="https://www.linkedin.com/in/miquel-estrada-fit%C3%A9-29582b72/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -40,7 +41,7 @@ Personal site [here](https://mestradafite.github.io/)
 **Web/Full Stack projects**
 
 <ul>
-  <li><a href="https://www.fancyexperience.es/#/home">Fancy Experience</a></li>
+  <li><a target="_blank" href="https://www.fancyexperience.es/#/home">Fancy Experience</a></li>
   <li>Love Wedding</li>
   <li>Hoopling</li>
   <li>Rolling stones</li>

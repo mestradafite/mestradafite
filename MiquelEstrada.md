@@ -1,8 +1,3 @@
----
-title: MiquelEstradaFite 
-date: '2023-26-01'
-githubUsername: 'mestradafite'
----
 
 ## Hi, im Miquel ⚡
 

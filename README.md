@@ -44,10 +44,8 @@ Personal site [here](https://mestradafite.github.io/)
 
 <ul>
   <li><a target="_blank" href="https://www.fancyexperience.es/#/home">Fancy Experience</a></li>
-  <li>Love Wedding</li>
-  <li>Hoopling</li>
-  <li>Rolling stones</li>
-  <li>etc</li>
+  <li><a target="_blank" href="https://lovewedding.vercel.app/">Love Wedding</a></li>
+  <li><a target="_blank" href="https://mestradafite.github.io/rstfm/index.html">Rolling stones</a></li>
 </ul>
 
 It's all folks

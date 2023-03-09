@@ -38,8 +38,6 @@ I am a Front End Developer from Barcelona.
 
 ### 💼 Portfolio :
 
-Personal site [here](https://mestradafite.github.io/)
-
 **Web/Full Stack projects**
 
 <ul>

@@ -45,7 +45,7 @@ I am a Front End Developer from Barcelona.
   <li><a target="_blank" href="https://lovewedding.vercel.app/">Love Wedding</a></li>
   <li><a target="_blank" href="https://mestradafite.github.io/rstfm/index.html">Rolling stones</a></li>
   <li><a target="_blank" href="https://mestradafite.github.io/movie-land">Movie Land</a></li>
-  <li><a target="_blank" href="https://travel-app-1njl.vercel.app/">Travel App</a></li>
+  <li><a target="_blank" href="https://travel-app-gilt-eta.vercel.app/">Travel App</a></li>
 </ul>
 
 It's all folks

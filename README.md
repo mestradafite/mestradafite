@@ -14,8 +14,6 @@ margin-bottom: 30px;" src="https://giffiles.alphacoders.com/956/9562.gif">
 
 <h1 align="center">Hi 👋, I'm Miki</h1>
 
----
-
 ### 🧑‍💻 About Me :
 
 I am a Front End Developer from Barcelona.

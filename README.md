@@ -1,10 +1,10 @@
-<!--<p align="center">
+<p align="center">
   <img alt="hello!" align="center" style="display: block;
 margin-left: auto;
 margin-right: auto;
 width: 20%;
 margin-bottom: 30px;" src="https://giffiles.alphacoders.com/956/9562.gif">
-</p>-->
+</p>
 
 <div id="badges" align="center" style="margin-bottom: 10px;">
   <a target="_blank" href="https://www.linkedin.com/in/miquel-estrada-fit%C3%A9-29582b72/">
@@ -13,6 +13,8 @@ margin-bottom: 30px;" src="https://giffiles.alphacoders.com/956/9562.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Miki</h1>
+
+---
 
 ### 🧑‍💻 About Me :
 
